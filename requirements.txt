@@ -1,0 +1,6 @@
+dataclasses==0.8
+numpy==1.19.5
+pybind11==2.10.3
+torch==1.10.2
+typing_extensions==4.1.1
+-e git+https://github.com/facebookresearch/XLM@cd281d32612d145c6742b4d3f048f80df8669c30#egg=xlm
