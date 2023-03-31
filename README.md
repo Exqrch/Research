@@ -21,7 +21,7 @@ This repository is owned and maintained by:
 
 The repository contains the following files and folders:
 
-- XLM: Cloned from [https://github.com/facebookresearch/XLM/tree/main/tools](https://github.com/facebookresearch/XLM), with respect to the license
+- XLM: Cloned from [https://github.com/facebookresearch/XLM](https://github.com/facebookresearch/XLM), with respect to the license
 - [Insert name of file/folder 2]: [Brief explanation of what the file/folder contains]
 - [Insert name of file/folder 3]: [Brief explanation of what the file/folder contains]
 
